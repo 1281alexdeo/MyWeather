@@ -35,7 +35,7 @@ public class WeatherDataModel {
 //            "weather":
 //          [
 //            {
-//                "id": 800,
+//                "id":800,
 //                    "main": "Clear",
 //                    "description": "clear sky",
 //                    "icon": "01n"
